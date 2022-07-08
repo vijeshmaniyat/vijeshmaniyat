@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vijeshmaniyat
+- 👋 Hi, I’m Vijeshmaniyat
 - 👀 I’m interested in Web programming
 - 🌱 I’m currently learning PHP and MySQL
 - 💞️ I’m looking to collaborate on Web application development
